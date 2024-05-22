@@ -3,7 +3,6 @@
 
 # Inglo, international awareness community flutter application
 
-<img width="194" alt="스크린샷 2024-02-26 오전 9 55 19" src="https://github.com/bianbbc87/new/assets/129590633/085aaa87-2dbe-4e7a-90e0-c3852389c04e">
 
 2023-GDSC-Solution-Challenge flutter project
 
